@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Capital Shop finally challenge</title>
+</head>
+
+
+
+
+
+
+</html>
