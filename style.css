@@ -554,6 +554,7 @@ footer .lock h1 {
   }
   .custom-section {
     width: 300px;
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
